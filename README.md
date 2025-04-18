@@ -98,3 +98,7 @@ Planned or possible enhancements:
 ## 📄 License
 
 MIT License — feel free to use and modify, but please give credit.
+
+## 📄 Of course
+
+This text was written with assistance of GenAI-Tools
