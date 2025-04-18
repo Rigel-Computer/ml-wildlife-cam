@@ -1,4 +1,3 @@
-
 # Wild Camera Analysis: Motion Detection via Delta Comparison
 
 This Python script is designed to automatically evaluate footage from wildlife cameras. It detects videos with significant motion—such as animals—and saves an enlarged snapshot of the most relevant moment from each video.
