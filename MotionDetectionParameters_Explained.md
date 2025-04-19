@@ -25,3 +25,7 @@ The most influential parameters for detection accuracy are:
 - **Brightness Threshold (`NACHT_GRENZE`)**: Dynamically switches between day/night settings, crucial for balancing sensitivity.
 
 Together, these parameters ensure robust motion detection under varying lighting conditions and reduce false alarms caused by environmental effects like wind or shadows.
+
+# Disclaimer
+
+This info was summerized by the bot on base of the Python-Script Wildkamera_Snapshots_Sortiert.py
