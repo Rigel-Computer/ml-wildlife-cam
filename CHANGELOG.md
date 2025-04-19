@@ -25,6 +25,7 @@
 ## v0.6 – Highlighting Motion
 - Added green bounding box around detected moving object in extracted image.
 - Simplifies identification of motion and what caused it.
+- Set an ignore range to the videos buttom (~5%), cause changing time was recognized as "movement" in the video, too.
 
 ## v0.7 – Day/Night Classification
 - Analyzed average brightness of each frame.
