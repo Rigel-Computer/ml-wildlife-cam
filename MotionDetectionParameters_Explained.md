@@ -26,6 +26,6 @@ The most influential parameters for detection accuracy are:
 
 Together, these parameters ensure robust motion detection under varying lighting conditions and reduce false alarms caused by environmental effects like wind or shadows.
 
-# Disclaimer
+### Disclaimer
 
 This info was summerized by the bot on base of the Python-Script Wildkamera_Snapshots_Sortiert.py
